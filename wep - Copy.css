@@ -94,7 +94,7 @@ h1 a:hover {
     color: #cccccc;
 }
 
-/* ========== التجاوب مع الشاشات الصغيرة ========== */
+
 @media (max-width: 600px) {
     form {
         margin: 20px;
